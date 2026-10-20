@@ -1,0 +1,15 @@
+{
+  "name": "hwpx",
+  "displayName": "HWPX (한글)",
+  "description": "Read, write, and convert HWP/HWPX (한글) documents — Markdown conversion, HWP equation scripts, XML structure, MathON rules, tables, images, and multi-column layouts for Korean government/education documents.",
+  "version": "2.0.0",
+  "author": {
+    "name": "Hohyon Ryu",
+    "url": "https://github.com/hohyon-ryu"
+  },
+  "repository": "https://github.com/hohyon-ryu/claude-hwpx-plugin",
+  "homepage": "https://github.com/hohyon-ryu/claude-hwpx-plugin",
+  "license": "MIT",
+  "skills": "./skills/",
+  "keywords": ["hwpx", "hwp", "한글", "hancom", "korean", "document", "equation", "math", "government", "공문서", "시험지"]
+}
